@@ -1,0 +1,1 @@
+return dofile("/etc/startmgr/system/diskmgr.service")
