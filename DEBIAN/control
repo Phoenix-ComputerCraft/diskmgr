@@ -1,9 +1,9 @@
 Package: diskmgr
-Version: 1.0-1
+Version: 1.0.1-1
 Section: utils
 Priority: standard
 Architecture: phoenix
-Requires: libsystem
+Depends: libsystem
 Maintainer: JackMacWindows <jackmacwindowslinux@gmail.com>
 Description: disk auto mounting manager
  Manager service to handle automatically mounting

@@ -1,0 +1,13 @@
+Files:
+ *
+Copyright: (c) 2021-2024 JackMacWindows
+License: Phoenix-EULA
+
+License: Phoenix-EULA
+ Phoenix pre-release software is proprietary. You are free to use and modify
+ Phoenix software for personal use only. Redistribution of Phoenix software in
+ any form, modified or not, is not permitted.
+ .
+ See the full text of the license at https://phoenix.madefor.cc/license.
+Comment:
+ A copy of the Phoenix EULA is included at /usr/share/doc/phoenix-eula.md.
